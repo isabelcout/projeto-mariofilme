@@ -62,3 +62,13 @@
         height: 140px;
     }
 }
+
+.rodape{
+    background-color: #2f3c57;
+    color: #ffffff;
+    text-align: center;
+}
+
+.social{
+  color: #5fd019;
+}
