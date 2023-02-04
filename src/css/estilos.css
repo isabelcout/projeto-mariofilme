@@ -151,5 +151,25 @@ body {
   color: #5fd019;
 }
 
+.sobre{
+  color: #000000;
+  font-size: 35px;
+  margin: 30px 0;
+  text-align: center;
+}
 
+.sobrep{
+  color: #000000;
+  width: 95%;
+  font-size: 18px;
+  margin: 30px;
+  text-align: justify;
+}
+
+.sobre2{
+  color: #000000;
+  font-size: 25px;
+  margin: 30px;
+  width: 95%;
+}
 
