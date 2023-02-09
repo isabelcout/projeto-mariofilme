@@ -73,3 +73,9 @@
   color: #5fd019;
 }
 
+@media (max-width: 376px) {
+    .sobre .sobre2 .sobrep {
+        
+    }
+}
+
