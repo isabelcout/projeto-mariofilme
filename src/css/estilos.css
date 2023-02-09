@@ -158,18 +158,27 @@ body {
   text-align: center;
 }
 
-.sobrep{
+/* .sobrep{
   color: #000000;
   width: 95%;
   font-size: 18px;
   margin: 30px;
   text-align: justify;
-}
+} */
 
 .sobre2{
   color: #000000;
   font-size: 25px;
   margin: 30px;
   width: 95%;
+}
+
+  .sobrep {
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
 }
 
