@@ -176,10 +176,10 @@ body {
   .sobrep {
     border: 0;
     font: inherit;
-    font-size: 100%;
+    font-size: 18px;
     margin: 0;
     padding: 0;
     vertical-align: baseline;
-    
+    text-align: justify;
 }
 
