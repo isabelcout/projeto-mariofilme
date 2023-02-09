@@ -73,9 +73,10 @@
   color: #5fd019;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 900px) {
     .sobre .sobre2 .sobrep {
-        
+        font-size: 32px;
+        line-height: 40px;
     }
 }
 
