@@ -169,17 +169,15 @@ body {
 .sobre2{
   color: #000000;
   font-size: 25px;
-  margin: 30px;
-  width: 95%;
+  text-align: center;
 }
 
   .sobrep {
     border: 0;
     font: inherit;
     font-size: 18px;
-    margin: 0;
-    padding: 0;
-    vertical-align: baseline;
+   margin-left: 200px;
+   margin-right: 200px;
     text-align: justify;
 }
 
