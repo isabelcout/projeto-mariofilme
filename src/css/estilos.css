@@ -172,6 +172,11 @@ body {
   text-align: center;
 }
 
+figure img{
+  width: 650px;
+  margin-left: 400px;
+}
+
   .sobrep {
     border: 0;
     font: inherit;
